@@ -36,7 +36,3 @@ This is the backend for the Stunning AI Task project, built with NestJS and Mong
 npm run test
 npm run test:e2e
 ```
-
-## License
-
-MIT
